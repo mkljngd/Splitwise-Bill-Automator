@@ -1,0 +1,8 @@
+Roti-Chapati: $11.32 [M,D,H]
+Coca-Cola Classic: $21.99 [M,D,H]
+Coke Zero Sugar: $21.99 [M,D,H]
+Bounty Paper Towels: $25.18 [M,D,H]
+Eggs: $5.82 [M,D,H]
+Whole Milk: $3.29 [M,D,H]
+Protein Shake: $21.99 [D]
+Tax Tip: $6.76 [M,D,H]
